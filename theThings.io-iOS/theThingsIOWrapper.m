@@ -30,7 +30,7 @@
 #import <AFNetworking/AFNetworking.h>
 #import "Account.h"
 
-#define kAPIURL @"http://api.thethings.io/v2/"
+#define kAPIURL @"http://api.devices.thethings.io/v2/"
 
 @interface theThingsIOWrapper()
 
