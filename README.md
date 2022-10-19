@@ -2,7 +2,7 @@
 
 This is a simple APP for iOS developers that shows how to use thethings.iO API for building their own APP. This demo App is far from a production ready app.
 
-The App covers the following API endpints:
+The App covers the following API endpoints:
 
 - Register a new app user
 - Login an app user
